@@ -39,4 +39,95 @@ This tool provides real-time scanning, banner grabbing, scan history, and export
   - Running service
   - Partial version info
 
-Example:
+
+---
+
+## ⚙️ Technologies Used
+
+- Python 3
+- socket programming
+- threading
+- Tkinter (GUI)
+- subprocess (ping)
+- csv module
+
+---
+
+## 🧠 How It Works
+
+1. User inputs:
+   - Target (IP or hostname)
+   - Port range
+
+2. System:
+   - Resolves hostname to IP
+   - Checks host reachability
+
+3. Scanner:
+   - Creates multiple threads
+   - Scans ports using socket connections
+
+4. If port is open:
+   - Service is identified
+   - Banner is captured (if available)
+
+5. Results:
+   - Displayed in real-time
+   - Stored in scan history
+
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended for educational and ethical use only.
+
+- Do not scan unauthorized systems
+- Always take proper permission before scanning any network
+
+---
+
+## 🔮 Future Improvements
+
+- OS Detection
+- Network-wide scanning
+- UDP scanning support
+- Graphical analytics dashboard
+- AI-based vulnerability detection
+
+---
+
+## 👨‍💻 Author
+
+**Sk Naimuddin**
+
+- Cybersecurity Enthusiast
+- IoT Developer
+- AI/ML Learner
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository
+- 🍴 Fork it
+- 🤝 Contribute
+
+---
+
+## 🤝 Contribution
+
+1. Fork the repository
+2. Create a new branch
+3. Make changes
+4. Submit a pull request
+
+---
+
+## 📬 Contact
+
+Open for collaboration and project ideas 🚀
+
+
