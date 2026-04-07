@@ -78,6 +78,7 @@ This tool provides real-time scanning, banner grabbing, scan history, and export
 5. Results:
    - Displayed in real-time
    - Stored in scan history
+   - Export in csv or txt file
 
 
 ---
