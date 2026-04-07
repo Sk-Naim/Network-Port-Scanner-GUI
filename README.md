@@ -5,6 +5,10 @@ This tool provides real-time scanning, banner grabbing, scan history, and export
 
 ---
 
+<p align="center">
+  <img src="Network_Port_Scanner.png" width="800"/>
+</p>
+
 ## 🚀 Features
 
 ### 🔍 Multi-threaded Port Scanning
